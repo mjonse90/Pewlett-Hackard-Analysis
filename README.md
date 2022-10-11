@@ -23,3 +23,6 @@ Additionally, the company is considering a mentorship program for employees who 
 <img width="814" alt="mentorship eligibility" src="https://user-images.githubusercontent.com/103767830/195147400-7852e517-f9e5-4e7c-b47e-a00829c43845.png">
 
 ## Summary:
+The number of employees expected to retire will cause huge distruptions to the Pewlett Hackard workforce. Even wtih the mentorship program, the eligibility is not large enough to cover the large exodus from the company. As of now, the eligibility for the mentorship program is only for those born in 1965. If this is widened to cover a larger time frame, say 1965 to 1970, then this could allow more flexibility and room for advancement.
+
+There may not be enough job seekers to cover the large number of expected retirees in the next few years. However, the sooner the replacement hiring process can begin, coupled with widening the years of eligible mentors and restructuring some of the current jobs, then it may be possible to mitigate some of the expected production losses expected to come. 
